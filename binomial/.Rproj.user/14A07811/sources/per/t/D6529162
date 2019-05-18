@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556756684027.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "456999291",
+    "id" : "D6529162",
+    "lastKnownWriteTime" : 1556900154,
+    "last_content_update" : 1556900347337,
+    "path" : "~/hw-stat133/binomial/vignettes/introduction-to-the-binomial-package.Rmd",
+    "project_path" : "vignettes/introduction-to-the-binomial-package.Rmd",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
