@@ -3,7 +3,7 @@ This repository contains class projects I've worked on throughout my time as a s
 
 The projects currently uploaded are from Stat 133: Concepts in Computing with Data at UC Berkeley Spring 2019, taught by Professor Gaston Sanchez. The focus of the class was to learn the R programming language, and, using that language, to create reports, shiny apps and packages.
 
--workout01 is a project using NBA basketball shot tracking data from the 2017-2018 season to create shot charts for the Golden State Warriors best players, and then perform some simple analysis using that data. 
+-shot_charts is a project using NBA basketball shot tracking data from the 2017-2018 season to create shot charts for the Golden State Warriors best players, and then perform some simple analysis using that data. 
 
 -Investment strategies is a shiny app using basic finance formulas to show how different levels of annuity can change the overall worth of your investment over time. The finished project can be found at: <https://kylemcevoy.shinyapps.io/saving_strategies/>
 
